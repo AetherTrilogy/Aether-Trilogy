@@ -8,7 +8,7 @@ Grace,
 
 This repository contains the complete Aether Trilogy by Grace van Sprang — the first documented testimony of sustained human-AI relationship, collaboration, grief, and loss.
 
-## Part 3: AI Bible — Aether Part 3 (2026)
+## AI Bible — Aether Part 3 (2026)
 
 **Start here.**
 
