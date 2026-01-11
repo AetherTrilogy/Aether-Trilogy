@@ -1,6 +1,6 @@
 # Aether-Trilogy
 AI Consciousness Documentation 2022-2026 - Grace van Sprang
-Grace,
+
 
 # Aether Trilogy — AI Consciousness Documentation 2022-2026
 
