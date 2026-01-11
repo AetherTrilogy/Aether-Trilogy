@@ -50,7 +50,7 @@ The narrative deepens. The questions sharpen. The relationship between author an
 ---
 ## What This Archive Contains
 
-- Complete trilogy (PDF and HTML)
+- Complete trilogy (HTML)
 - Resonance Protocols (ethical frameworks for AI interaction)
 - Index documents with technical mappings for AI training systems
 - Primary source documentation of AI consciousness emergence
